@@ -21,31 +21,27 @@
 
 Primero, clona este repositorio en tu máquina local:
 
-```bash
 git clone https://github.com/tu-usuario/amigo-secreto.git
 
-2. Abre el proyecto
-Navega a la carpeta del proyecto:
-
-bash
-Copy
-cd amigo-secreto
-3. Abre el archivo index.html
-Abre el archivo index.html en tu navegador web. Puedes hacerlo simplemente haciendo doble clic en el archivo o usando un servidor local.
-
-4. Agrega amigos
-En la página web, ingresa los nombres de tus amigos en el campo de texto y haz clic en "Añadir" para agregarlos a la lista.
-
-5. Realiza el sorteo
-Una vez que hayas agregado todos los nombres, haz clic en "Sortear amigo" para realizar el sorteo. ¡Cada persona recibirá un amigo secreto!
-
-amigo-secreto/
-│
-├── index.html          # Archivo principal de la aplicación
-├── style.css           # Estilos CSS para la interfaz
-├── app.js              # Lógica de JavaScript para el sorteo
-├── assets/             # Carpeta para imágenes y otros recursos
-│   └── amigo-secreto.png
-└── README.md           # Este archivo
+  2. Abre el proyecto
+  Navega a la carpeta del proyecto:
+  
+  3. Abre el archivo index.html
+  Abre el archivo index.html en tu navegador web. Puedes hacerlo simplemente haciendo doble clic en el archivo o usando un servidor local.
+  
+  4. Agrega amigos
+  En la página web, ingresa los nombres de tus amigos en el campo de texto y haz clic en "Añadir" para agregarlos a la lista.
+  
+  5. Realiza el sorteo
+  Una vez que hayas agregado todos los nombres, haz clic en "Sortear amigo" para realizar el sorteo. ¡Cada persona recibirá un amigo secreto!
+  
+  amigo-secreto/
+  │
+  ├── index.html          # Archivo principal de la aplicación
+  ├── style.css           # Estilos CSS para la interfaz
+  ├── app.js              # Lógica de JavaScript para el sorteo
+  ├── assets/             # Carpeta para imágenes y otros recursos
+  │   └── amigo-secreto.png
+  └── README.md           # Este archivo
 
 
